@@ -19,3 +19,12 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1740159370360,259,Create User,201,Created,Thread Group 1-18,text,true,,1146,223,2,2,https://reqres.in/api/users,259,0,93
 1740159370605,252,Create User,201,Created,Thread Group 1-19,text,true,,1146,223,2,2,https://reqres.in/api/users,252,0,98
 1740159370847,256,Create User,201,Created,Thread Group 1-20,text,true,,1141,223,1,1,https://reqres.in/api/users,256,0,94
+1740656687171,824,JDBC Request,200,OK,Thread Group 1-1,text,true,,119,0,1,1,null,815,0,809
+1740656688032,5,Debug Sampler,200,OK,Thread Group 1-1,text,true,,563,0,1,1,null,0,0,0
+1740656689027,465,GET,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1463,122,1,1,null,0,672,338
+1740656689425,407,HTTP Request,200,OK,Thread Group 1-1,text,true,,1463,122,1,1,https://reqres.in/api/users/1,400,0,338
+1740656690105,58,JSR223 Sampler,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1740656690172,219,DELETE,204,No Content,Thread Group 1-1,,true,,1017,208,1,1,https://reqres.in/api/users/2,0,0,0
+1740656690393,50,GET,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1453,122,1,1,null,0,17,0
+1740656690394,49,HTTP Request,200,OK,Thread Group 1-1,text,true,,1453,122,1,1,https://reqres.in/api/users/3,48,0,0
+1740656690459,1,JSR223 Sampler,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
